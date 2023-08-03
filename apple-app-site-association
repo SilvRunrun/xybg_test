@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "K9KRC7C2UL.com.zbiti.xybg",
+                "paths": ["/app/*"]
+            }
+        ]
+   }
+}
